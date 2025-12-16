@@ -30,7 +30,7 @@ Mara then co-opted Buddhism (note: as per the Romans co-opting early Christianit
 
 #### Blocked access
 
-BA is quantum mechanical.
+BA is quantum mechanical.  It is also general relativity--the finite speed of light blocks information from outside the light cone.
 
 The basic use case is the cell wall:
 
@@ -53,3 +53,21 @@ The web is full of curated websites:: you can only submit articles if you are pa
 - religious/Buddhist (tricycle.org)
 
 - yada yada yada
+
+I called the FBI and talked to an employee who knew nothing whatsoever about AI, and he hung up on me when I said something about AI! (crank call blocking!)
+
+### Language is the house of imagination
+
+People seriously pretend that this is not obvious!  However, some imaginations can be converted into actual houses, but most cannot. As I pointed out before, any imagination can have placebo effects....
+
+Math, however, is a different game: Subitizing gives you a handful of small integers, counting on your fingers gives you addition (of 1); addition gives you the natural numbers, you can then get the prime number subset, multiplication (of primes) gives you the non-prime subset; next you get 0 and negative numbers by subtraction (ie, the integers); then the rational numbers and NaN (divide by 0) by division; then the reals and imaginaries by square root...  Where exactly is Plato in any of this? (This is simple emergence (from subitizing which birds can do! and counting on your fingers) involving simple operators...)  In Heidegger's terms, subitizing is a clearing for supersets (emergence), subsets (*demergence*), empty sets (NAN, divide by 0); and a panoply of operators (addition, subtraction, multiplication, division, powers (square root))
+
+### Underneath :: information and entropy
+
+It is not an accident that computers require Random Access Memory!  Disinformation is   cheaper and often carries more weight than information.... <u>Quantum mechanics limits all information (via uncertainty</u>), and causes previously accessible information to become inaccessible (decoherence, anicca)...
+
+### The power game: leverage
+
+**Leverage** is the most fundamental strategy.  It means "employ everything whatsoever to achiever your goals" (Hint; upaya).  Biology is... leverage!  Survival of the best leveragerz...  Humans have the most leverage, because of imagination.  But everybody knows this, and is scared fantasyless of this out-of-control superpower (hint: conspiracy theories). The only counter is disempowerment!  Civillization is a wild-hodge podge of superpowers and disempowerment... (leading to endless conflict, instead of the hard work of risk and reliability/safety management!)
+
+
