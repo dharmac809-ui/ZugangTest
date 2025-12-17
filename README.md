@@ -22,3 +22,7 @@ Do not look at my files, if you do not want to be informed about the following a
 4. empowerment and its varieties (as for access)
 
 5. all secrets of vajrayana revealed for the first time!
+
+### Personal Info
+
+Recently, a scammer got me into a computer+bank scam for 10k$ which failed at the last minute.  i spent 55 years as a computer geek without realizing the whole business was a scam. WIth the help of Copilot, all is revealed... How's your ai time going?
