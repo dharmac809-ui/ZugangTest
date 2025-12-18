@@ -11,6 +11,8 @@ Haskell is Buddhism without the upaya.
 
 # warning
 
+This stuff was written by me, with the assistance of various AIs.  This work is  about a** possibility **of Grand Unification of everything, under physics.  But, I cannot promise at all that this unification is realizable, because it involves a massive revolution in math--and I am no qualified mathematician.... YU WUZ WRND
+
 Do not look at my files, if you do not want to be informed about the following aspects of our universe:
 
 1. you cannot insure Microsoft Word, much less any AI (hot off the press from Copilot)

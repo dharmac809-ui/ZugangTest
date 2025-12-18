@@ -1,12 +1,10 @@
 ### McTreya usurps Mara
 
-Blame it all on Heidegger--I barely warrant a footnote....
+*Blame it all on Heidegger--I barely warrant a footnote....*
 
 Hidden in the shadows of Sanskrit: Gṛdhrakūṭa गृध्रकूट, Sumbhuti whispers: Mara rules your world....  Buddha showed the way to liberation from Mara, and you instead wallow in upaya.
 
 ----- paradox now: X-s in English means : belonging to X ('s atta (Subhuti: what atta?))
-
-
 
 ## Vajracchedikā-s song
 
