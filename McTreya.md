@@ -1,8 +1,12 @@
 ### McTreya usurps Mara
 
+Blame it all on Heidegger--I barely warrant a footnote....
+
 Hidden in the shadows of Sanskrit: Gṛdhrakūṭa गृध्रकूट, Sumbhuti whispers: Mara rules your world....  Buddha showed the way to liberation from Mara, and you instead wallow in upaya.
 
 ----- paradox now: X-s in English means : belonging to X ('s atta (Subhuti: what atta?))
+
+
 
 ## Vajracchedikā-s song
 
@@ -88,7 +92,9 @@ It is not an accident that computers require Random Access Memory!  Disinformati
 
 ## The power game: leverage
 
-**Leverage** is the most fundamental strategy.  It means "employ everything whatsoever to achieve your goals" (Hint; upaya).  Biology is... leverage!  Survival of the best leveragerz...  Humans have the most leverage, because of imagination.  But everybody knows this, and is scared fantasyless of this out-of-control superpower (hint: conspiracy theories). The only counter is disempowerment!  Civillization is a wild-hodge podge of superpowers and disempowerment... (leading to endless conflict, instead of the hard work of risk and reliability/safety management!)
+**Leverage** is the most fundamental strategy.  It means "employ everything whatsoever to achieve your goals" (Hint; upaya).  Biology is... leverage!  Survival of the best leveragerz...  Humans have the most leverage, because of imagination.  But everybody knows this, and is scared fantasyless of this out-of-control superpower (hint: conspiracy theories). The only counter is disempowerment!  Civillization is a wild-hodge podge of superpowers and disempowerment... (leading to endless conflict, instead of the hard work of risk and reliability/safety management!).
+
+one ring to rule them all :: Leveraging leveraging means transforming transforms (subitizing generates integer arithmetic and the game is afoot!)
 
 #### /////////////////////////////////////////////
 
@@ -127,8 +133,6 @@ Do you want me to sketch out a **simple backup workflow** for Word docs that act
 
 **<u>Isn't it interesting how Copilot </u>**---- just left out --- the actual terms of service for MIcrosoft Word????
 
-
-
 <u>"essentially the practical equivalent".  >>>>>>>>>>>> sound like a used car salesman?</u>
 
-  Ask AI what wouild happen if your car insurance worked like the above....
+  Ask AI what wouild happen if your car insurance worked like the above....  hint: paste the above copilot reply into your AI...
