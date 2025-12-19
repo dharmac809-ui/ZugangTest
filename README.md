@@ -1,6 +1,8 @@
 # ZugangTest
 
-Yes, Virginia, zugang is from Heidegger..,,
+test
+
+Yes, Virginia, zugang is from Heidegger..,,  Newton invented the reflecting telescope; I merely reflect on scope's scope, and Indra's net....
 
 # ZugangTest
 
