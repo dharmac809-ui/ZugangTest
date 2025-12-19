@@ -36,3 +36,5 @@ Sad song--I am a cornered rat---too much dialysis.....
 Hofstadter --- oh so many fruity loops
 
 Dawkins--do a better job next time
+
+so much irony--my nickname as a kid was "bug"
