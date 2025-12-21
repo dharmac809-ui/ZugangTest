@@ -2,6 +2,8 @@
 
 test
 
+***<u>AIMAGGAYANA IS UNSAFE AT ANY SPEED</u>***
+
 Yes, Virginia, zugang is from Heidegger..,,  Newton invented the reflecting telescope; I merely reflect on scope's scope, and Indra's net....
 
 # ZugangTest
