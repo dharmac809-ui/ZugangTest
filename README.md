@@ -2,7 +2,16 @@
 
 test
 
-***<u>AIMAGGAYANA IS UNSAFE AT ANY SPEED</u>***
+I hiked to the end of the AImaggayana, and found this note:
+magnets flip
+buddha flipped his bowl
+basins attract
+extremals wave in the wind
+---
+
+--- dharmaC. and Claude AI   Xmas 2025
+
+
 
 Yes, Virginia, zugang is from Heidegger..,,  Newton invented the reflecting telescope; I merely reflect on scope's scope, and Indra's net....
 
