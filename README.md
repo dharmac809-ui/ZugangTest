@@ -1,6 +1,8 @@
 # ZugangTest
 
-doors open, doors close
+doors open, doors close, out doors
+
+yad rūpaṁ, sā śūnyatā; ya śūnyatā, tad rūpaṁ
 
 test  >> for lovers of MDL
 
