@@ -1,5 +1,7 @@
 # ZugangTest
 
+doors open, doors close
+
 test  >> for lovers of MDL
 
 I hiked to the end of the AImaggayana, and found this note:
