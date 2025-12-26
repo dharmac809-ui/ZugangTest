@@ -1,6 +1,6 @@
 # ZugangTest
 
-doors open, doors close, out doors, coyote brood
+doors open, doors close, out doors, coyote broods
 
 yad rūpaṁ, sā śūnyatā; ya śūnyatā, tad rūpaṁ
 
