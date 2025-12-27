@@ -22,7 +22,7 @@ extremals wave in the wind
 
 (  for lovers of prapanca/commentary // hint: Indra's net
 
-I hiked to the end of the AImaggayana, and found this note:  <<<<< 1 musical note  | 
+I hiked to the end of the AImaggayana, and found this note:  <<<<< coyote plays... 1 musical note ..Mara's  pitch | 
 magnets flip <<<< quantum mechanical instability (anicca) | 
 
 buddha flipped his bowl  <<<<<< upside down; try to put rice in an inverted bowl | 
@@ -32,9 +32,9 @@ basins attract  <<<<< strange attractors;; bowl not inverted; useful negative sp
 
 Yes, Virginia, zugang is from Heidegger..,,  Newton invented the reflecting telescope; I merely reflect on scope's scope, and Indra's net....
 
-# ZugangTest; **ཐང་ཀ**Show
+# ZugangTest; **ཐང་ཀ** Show
 
-zugang zugang::: the pointers explode outwards, instead of looping around inside the basin.
+zugang zugang::: pointer fans explode outwards, instead of looping around inside the basin.
 
 QED
 
@@ -52,6 +52,6 @@ Rough picture of the CPU reset process::   the power supply ramps up in voltage;
 
 Consider a RAM (random access memory) byte.  As long as the RAM has power, once you write a value to the byte, this value will PERSIST (and can be read) until the byte is written again.   While this all feels very "impermanent", the idea of anicca blocks access to the key property--PERSISTENCE, which buddhism mostly ignores (conflates).  IMHO, a lifetime of days and a lifetime of a deva are--not in the same league.
 
-Some of use mirrors for the trivilal  pursuit of accessing our face....
+Some of use mirrors for the trivilal pursuit of accessing (view) our face....
 
 --this is version 123r
