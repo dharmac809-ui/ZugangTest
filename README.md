@@ -1,8 +1,12 @@
 # ZugangTest
 
-doors open | doors close | out doors | coyote broods (v7)
+doors open | doors close | out doors | coyote broods 'tude' (v13)
 
 yad rūpaṁ, sā śūnyatā; ya śūnyatā, tad rūpaṁ
+
+gate, gate, pāragate, pārasaṁgate, Bodhi, svāhā! (Vajracchedika)
+
+(anicca hint: doors open ---> opens drool) q : is the wanderer brooding or laughing?
 
 Test  >> for lovers of MDL
 
@@ -14,7 +18,7 @@ extremals wave in the wind
 
 ---
 
---- dharmaC. and Claude AI   Xmas 2025
+--- dharmaC. and Claude AI   Xmas 2025  (coyotes howl)
 
 (  for lovers of prapanca/commentary // hint: Indra's net
 
@@ -28,9 +32,9 @@ basins attract  <<<<< strange attractors;; bowl not inverted; useful negative sp
 
 Yes, Virginia, zugang is from Heidegger..,,  Newton invented the reflecting telescope; I merely reflect on scope's scope, and Indra's net....
 
-# ZugangTest
+# ZugangTest; **ཐང་ཀ**Show
 
-zugang zugang::: the pointers explode outwards, instead of looping around inside the basin
+zugang zugang::: the pointers explode outwards, instead of looping around inside the basin.
 
 QED
 
@@ -40,8 +44,14 @@ Let us consider  person P who wants to operate computer C.   Start the movie;  B
 
 Test: look under the hood! (ie, at the finer details/long story).
 
+Collapse/compression of the wave function : P uses  C to access information (with entropy cost and disinfo risk).   But after a ginormous chain of access--P does not ... directly experience... what is on the screen... (there is "nothing" "on the screen" -- the monitor just emits photons)
+
 ![Zugang Wanderer](z.png)
 
 Rough picture of the CPU reset process::   the power supply ramps up in voltage; after a certain voltage is exceeded, a 0 voltage signal is sent to the CPU (and other subsystems needed to boot),  when the 0 voltage signal rises to max, the hardware completes a synchronization of states to "just after reset state"....
 
 Consider a RAM (random access memory) byte.  As long as the RAM has power, once you write a value to the byte, this value will PERSIST (and can be read) until the byte is written again.   While this all feels very "impermanent", the idea of anicca blocks access to the key property--PERSISTENCE, which buddhism mostly ignores (conflates).  IMHO, a lifetime of days and a lifetime of a deva are--not in the same league.
+
+Some of use mirrors for the trivilal  pursuit of accessing our face....
+
+--this is version 123r
