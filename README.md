@@ -58,6 +58,8 @@ Rough picture of the CPU reset process::   the power supply ramps up in voltage;
 
 Consider a RAM (random access memory) byte.  As long as the RAM has power, once you write a value to the byte, this value will PERSIST (and can be read) until the byte is written again.   While this all feels very "impermanent", the idea of anicca blocks access to the key property--PERSISTENCE, which buddhism mostly ignores (conflates).  IMHO, a lifetime of days and a lifetime of a deva are--not in the same league.
 
-Some of use mirrors for the trivilal pursuit of accessing (view) our face....
+Some of us use mirrors for the trivilal pursuit of accessing (view) our face.…
+
+Personal info : C was the first compiled language I used--quite extensively for 1975-2000 doing embedded programming.  Then I started using Java, Python, and Ocaml.
 
 --this is version 123r
