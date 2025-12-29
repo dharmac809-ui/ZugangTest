@@ -1,5 +1,7 @@
 # ZugangTest
 
+READ pointer_frameworks_insight.md
+
 doors open | doors close | out doors | coyote broods 'tude' (v13)
 
 yad rūpaṁ, sā śūnyatā; ya śūnyatā, tad rūpaṁ
