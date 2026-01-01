@@ -1,10 +1,11 @@
 # ZugangTest
 
+![glin](glib.png)
+MISSING Caption ::: Gautama LIbre!  Liberation teacher, chained by Asoka's "Dhamma"
+
 READ pointer_frameworks_insight.md
 
 "point at the ground" — EInstein
-
-
 
 doors open | doors close | out doors | coyote broods 'tude' (v13)
 
