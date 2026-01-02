@@ -11,7 +11,7 @@ RIP Buddha: all that is left is the three marks, and the dazzling splendor of "p
 
 J A Wheeler looked under the hood:: "What's this?  Ivory towers--of bit-relations?"
 
-#bits are bitty... From NAND, math (not organized).  EXTREMALS organize bits....
+# bits are bitty... From NAND, math (not organized).  EXTREMALS organize bits....
 
 Harry Chapin--"whatever we had once---is gone" 
 
