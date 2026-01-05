@@ -1,5 +1,13 @@
 # ZugangTest
 
+Heidegger: zugang.... HERE ::: "access-in-use"...  Heidegger: dis-unification-in-words... HERE: unification-in-words
+
+"They are all so easy--even Einstein: just promise 'em certainty"--Wittgenstein
+
+
+
+
+
 ![glin](glib.png)
 
 <u>MISSING Caption ::: Gautama LIbre!  Liberated teacher, chained by Asoka's "Dhamma"</u>
@@ -10,11 +18,15 @@ RIP Buddha: all that is left is the three marks, and the dazzling splendor of "p
 
 J A Wheeler looked under the hood:: "What's this?  Ivory towers--of bit-relations?"
 
-# bits are bitty... From NAND, math is accessible (not organized).  EXTREMALS organize bits....
+numbers: 0 is never equal to 1;;;   algebra: x can be equal to y.   0 is a symbol (grounded, concrete); x is a symbol (ungrounded, **abstract**),
+
+# bits are distinguished... From NAND, math is accessible (not organized).  EXTREMALS organize bits....
 
 A straight line is the shortest distance between two  bricks--Euclid
 
 Harry Chapin--"whatever we had once---is gone" --"taxi cab numbers"
+
+"reductionism" is a reductionist fallacy...
 
 The Transcendental Nature of Bodhisattvas [24-31]
 Thus transcending the world, he eludes our apprehensions.12
@@ -25,7 +37,7 @@ Likewise, how can we find him who has *found* the Rest of the Blessed?
 VERSE SUMMARY
 Translated by Edward Conze
 
-Here we have tathatagata ==gone;;; but next we find "tathatagatagarbha"==gone is returned as seed (the phoenix/resurrection):: no cake, have cake...
+Here we have tathatagata ==gone;;; but next we find "tathatagatagarbha"==gone returns in the garb of seed (the phoenix/resurrection):: no cake, have cake...
 
 READ pointer_frameworks_insight.md
 
