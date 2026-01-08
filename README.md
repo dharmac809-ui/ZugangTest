@@ -1,12 +1,12 @@
 # ZugangTest
 
-Heidegger: zugang.... HERE ::: "access-in-use"...  Heidegger: dis-unification-in-words... HERE: unification-in-words
+Heidegger: zugang.... HERE ::: "access-in-use"...  Heidegger: dis-unification-in-words... HERE: unification-in-words.
 
-"They are all so easy--even Einstein: just promise 'em certainty"--Wittgenstein
+Concealer Uno: take a term which is plural,. and make it singular (delete "s"): answers->answer; ditthis -> ditthi; gods -> god; selfies->self; paths->path; arahants ->Buddha; bits->bit; zugangs->zugang.
 
+"They are all so easy--even Einstein: just promise 'em certainty and hand 'em the dice"--Wittgenstein
 
-
-
+Philosophy conference. Speaker: "is math abstract?   Let's have a show of hands...."
 
 ![glin](glib.png)
 
@@ -39,11 +39,28 @@ Translated by Edward Conze
 
 Here we have tathatagata ==gone;;; but next we find "tathatagatagarbha"==gone returns in the garb of seed (the phoenix/resurrection):: no cake, have cake...
 
+### Seeds
+
+Almighty civilizations forever grow from***<u> seeds only.</u>***  (What other possible source is there?)
+
 READ pointer_frameworks_insight.md
 
 "point at the ground" — EInstein
 
 FACTOID::: the Buddha never wrote a word....but Asoka did.
+
+### Betraya
+
+Christianity betrays its roots with language such as "as ye sow, so shall ye reap", "shepherd", "fisherman", "carpenter'.  
+
+Question: is "original sin" just-- farming?
+
+ Tathatagatagarbha is one of the few farming references in Buddhism and occurs a millenium after Buddha. :According to ratnaguna, there are no such people as farmers:
+
+Conditioned by seeds grow barley, rice and so on;
+Their fruits are in these [seeds], and yet they are not in them.
+When this enlightenment of the Jinas arises,
+What takes place is an illusion, which in its own-being is without existence.  (v355)
 
 教外別傳 (jiàowài biéchuán)
 
@@ -60,6 +77,12 @@ yad rūpaṁ, sā śūnyatā; ya śūnyatā, tad rūpaṁ
 gate, gate, pāragate, pārasaṁgate, Bodhi, svāhā! (Vajracchedika)
 
 (anicca hint: doors open ---> opens drool) 
+
+### Pratitya samutpada
+
+<u>Here is the problem with upaya:  PS can be read as "based on physical conditions, physical effects arise" or "based on mental conditions, mental views arise"</u>
+
+That is, upaya can be read as 'skillful means",  "skillful views", "skillful attittudes", "skillful teachings", "skillful paradigms", ad infinitum..   But as Ratnaguna showed above, in authentic Buddhism, PS functions as "deleting pointers to farmers and the work they perform"  (Doestoevskian "ingratitude" to the max; bite the hand that feeds you). (Basically the same game as karma and Dalits).
 
 q : is the wanderer brooding or laughing?
 
@@ -112,5 +135,19 @@ Consider a RAM (random access memory) byte.  As long as the RAM has power, once 
 Some of us use mirrors for the trivilal pursuit of accessing (view) our face.…
 
 Personal info : C was the first compiled language I used--quite extensively for 1975-2000 doing embedded programming.  Then I started using Java, Python, and Ocaml.
+
+### Digital Buddhism
+
+- Conventional truth : 0, 1 are arbitrary symbols
+
+- Emptiness : {} == {} (non-duality, pointer equality, null pointer)
+
+- Ground truth : {} != {{}}  (duality,  two extremes, pointer inequality, binary Heyting algebra). *Kaccāyanagotta Sutta*  origination != cessation (base use case) . von Neumann-Bernays-Godel (set inequality)  x ≠ y ↔ ∃z(z ∈ x ∧ z ∉ y) ∨ (z ∈ y ∧ z ∉ x).  Requires determinate existence (collapse of the wavefunction).
+
+- Middle way : probability as [0, 1]  (dhatu, pointer to real number, manifold beyond two extremes);;  pratitya samutpada as mere probability rate of origination; no inherent rate == rate via extremals
+
+- absence of certainty (collapse of upaya) == "true meaning of anicca"
+
+- Bodhidharma :: {}, {{}}, ==, != are not words (ineffable but constructable, even by computers)
 
 --this is version 123r
