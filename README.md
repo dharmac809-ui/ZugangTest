@@ -22,6 +22,14 @@ numbers: 0 is never equal to 1;;;   algebra: x can be equal to y.   0 is a symbo
 
 # bits are distinguished... From NAND, math is accessible (not organized).  EXTREMALS organize bits....
 
+### MPAW (Memory Palace as Witness)
+
+- Veni / MPAW
+
+- Vidi / MPAW
+
+- Vici . MPAW
+
 A straight line is the shortest distance between two  bricks--Euclid
 
 Harry Chapin--"whatever we had once---is gone" --"taxi cab numbers"
