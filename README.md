@@ -22,13 +22,13 @@ numbers: 0 is never equal to 1;;;   algebra: x can be equal to y.   0 is a symbo
 
 # bits are distinguished... From NAND, math is accessible (not organized).  EXTREMALS organize bits....
 
-### MPAW (Memory Palace as Witness)
+### MPAW (Memory Palace as Witnessed)
 
 - Veni / MPAW
 
 - Vidi / MPAW
 
-- Vici . MPAW
+- Vici . MPAW   Hint: Indra's nets --- all the way down to the vacuum state
 
 A straight line is the shortest distance between two  bricks--Euclid
 
@@ -85,6 +85,8 @@ yad rūpaṁ, sā śūnyatā; ya śūnyatā, tad rūpaṁ
 gate, gate, pāragate, pārasaṁgate, Bodhi, svāhā! (Vajracchedika)
 
 (anicca hint: doors open ---> opens drool) 
+
+I don't teach anything.  I just point directly at the sun -- Herschel
 
 ### Pratitya samutpada
 
